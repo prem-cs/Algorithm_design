@@ -1,0 +1,1 @@
+#define nameof(x) #x
